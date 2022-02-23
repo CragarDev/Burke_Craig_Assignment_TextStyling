@@ -1,0 +1,27 @@
+* {
+    font-family: 'Comic Neue', cursive;
+    padding: 5px 10px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+span {
+    color: rgb(0, 255, 255);
+    padding: 0;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    background-color: rgb(145, 189, 247);
+    text-align: right;
+    text-decoration: underline;
+}
